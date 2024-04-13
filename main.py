@@ -1,4 +1,4 @@
-print("hello world")
+print("-------MATH--------")
 var = 1
 var2 = 2
 var3 = 5
@@ -17,3 +17,4 @@ print(var5 * var6)
 
 
 #math
+print("-------MATH--------")
